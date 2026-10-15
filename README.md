@@ -24,8 +24,7 @@
   * **Anomalies Elimination:** Filters data directly by isolating records where variables are valid (`GrossProfit > 0`, `ProfitMargin > 0`, and `TotalSalesQuantity > 0`).
   * **Data Screening:** Automatically plots boxplots for outlier validation and correlation heatmaps to study field relationships.
 
-# **Log System Configuration:** Uses Python logging with the `force=True` flag to override previous tracks and force successful log creation 
-#**inside Jupyter environments.
+# **Log System Configuration:** Uses Python logging with the `force=True` flag to override previous tracks and force successful log creation inside Jupyter environments.
 * **File Descriptions (1-by-1):**
   * ingestion_db.log — Tracks dataset changes, column updates, and successful row counts during data ingestion.
   * get_vendor_summary.log — Monitors database query times, system response logs, and connection pings during extraction.
