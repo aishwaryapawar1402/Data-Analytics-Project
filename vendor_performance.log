@@ -1,0 +1,8 @@
+2026-10-16 03:22:18,989 - INFO - Database connection successful with inventory.db
+2026-10-16 03:22:19,034 - INFO - Successfully fetched and filtered 8564 valid records from database
+2026-10-16 03:22:19,035 - INFO - Identified numerical columns: ['VendorNumber', 'Brand', 'PurchasePrice', 'ActualPrice', 'Volume', 'TotalPurchaseQuantity', 'TotalPurchaseDollars', 'TotalSalesQuantity', 'TotalSalesDollars', 'TotalSalesPrice', 'TotalExciseTax', 'FreightCost', 'GrossProfit', 'ProfitMargin', 'StockTurnover']
+2026-10-16 03:22:20,497 - INFO - Outlier detection boxplots rendered successfully
+2026-10-16 03:22:20,909 - INFO - Categorical count plots rendered successfully
+2026-10-16 03:22:20,931 - DEBUG - locator: <matplotlib.ticker.AutoLocator object at 0x000001BF8281E3C0>
+2026-10-16 03:22:21,735 - INFO - Correlation heatmap rendered successfully
+2026-10-16 03:22:21,735 - INFO - Database connection closed gracefully

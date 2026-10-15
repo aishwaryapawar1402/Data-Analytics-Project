@@ -1,0 +1,211 @@
+2026-09-28 23:12:23,779 - INFO - Ingesting begin_inventory.csv in db
+2026-09-28 23:12:25,843 - INFO - Ingesting end_inventory.csv in db
+2026-09-28 23:12:33,253 - INFO - Ingesting purchases.csv in db
+2026-09-28 23:13:11,133 - INFO - Ingesting purchase_prices.csv in db
+2026-09-28 23:13:32,578 - INFO - Ingesting sales.csv in db
+2026-09-28 23:17:31,076 - INFO - Ingesting vendor_invoice.csv in db
+2026-09-28 23:17:31,209 - INFO - ---------------------Ingestion Complete--------------------
+2026-09-28 23:17:31,209 - INFO - 
+Total Time Taken: 5.128933664162954 minutes
+2026-09-28 23:17:31,599 - INFO - Ingesting begin_inventory.csv in db
+2026-09-28 23:17:33,477 - INFO - Ingesting end_inventory.csv in db
+2026-09-28 23:17:40,683 - INFO - Ingesting purchases.csv in db
+2026-09-28 23:18:11,985 - INFO - Ingesting purchase_prices.csv in db
+2026-09-28 23:18:34,240 - INFO - Ingesting sales.csv in db
+2026-09-28 23:23:11,748 - INFO - Ingesting vendor_invoice.csv in db
+2026-09-28 23:23:11,872 - INFO - ---------------------Ingestion Complete--------------------
+2026-09-28 23:23:11,873 - INFO - 
+Total Time Taken: 5.6768064538637795 minutes
+2026-09-28 23:23:11,919 - ERROR - No such comm target registered: jupyter.widget.control
+2026-09-28 23:23:11,926 - DEBUG - Using selector: SelectSelector
+2026-09-28 23:23:11,930 - WARNING - No such comm: 46e5fa25-2424-47d2-9105-0d74250af3a1
+2026-09-28 23:23:11,930 - DEBUG - Current comms: []
+2026-09-28 23:23:12,327 - INFO - Ingesting begin_inventory.csv in db
+2026-09-28 23:23:14,387 - INFO - Ingesting end_inventory.csv in db
+2026-09-28 23:23:21,873 - INFO - Ingesting purchases.csv in db
+2026-09-28 23:24:00,450 - INFO - Ingesting purchase_prices.csv in db
+2026-09-28 23:24:22,291 - INFO - Ingesting sales.csv in db
+2026-09-28 23:28:15,429 - INFO - Ingesting vendor_invoice.csv in db
+2026-09-28 23:28:15,554 - INFO - ---------------------Ingestion Complete--------------------
+2026-09-28 23:28:15,554 - INFO - 
+Total Time Taken: 5.059801137447357 minutes
+2026-09-29 17:02:55,865 - INFO - Ingesting begin_inventory.csv in db
+2026-09-29 17:02:58,124 - INFO - Ingesting end_inventory.csv in db
+2026-09-29 17:03:06,193 - INFO - Ingesting purchases.csv in db
+2026-09-29 17:03:41,611 - INFO - Ingesting purchase_prices.csv in db
+2026-09-29 17:04:07,955 - INFO - Ingesting sales.csv in db
+2026-09-29 17:09:46,154 - INFO - Ingesting vendor_invoice.csv in db
+2026-09-29 17:09:46,275 - INFO - ---------------------Ingestion Complete--------------------
+2026-09-29 17:09:46,275 - INFO - 
+Total Time Taken: 6.845543114344279 minutes
+2026-09-29 17:09:46,756 - INFO - Ingesting begin_inventory.csv in db
+2026-09-29 17:09:49,318 - INFO - Ingesting end_inventory.csv in db
+2026-09-29 17:09:58,838 - INFO - Ingesting purchases.csv in db
+2026-10-08 10:16:12,969 - INFO - Ingesting begin_inventory.csv in db
+2026-10-08 10:16:28,810 - INFO - Ingesting begin_inventory.csv in db
+2026-10-08 10:18:38,269 - INFO - Ingesting begin_inventory.csv in db
+2026-10-08 10:18:57,111 - INFO - Ingesting begin_inventory.csv in db
+2026-10-08 10:18:59,100 - INFO - Ingesting end_inventory.csv in db
+2026-10-08 10:19:06,273 - INFO - Ingesting purchases.csv in db
+2026-10-08 10:19:38,088 - INFO - Ingesting purchase_prices.csv in db
+2026-10-08 10:20:00,254 - INFO - Ingesting sales.csv in db
+2026-10-08 10:26:06,460 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-08 10:26:06,538 - DEBUG - Using selector: SelectSelector
+2026-10-08 10:26:06,678 - INFO - ---------------------Ingestion Complete--------------------
+2026-10-08 10:26:06,678 - INFO - 
+Total Time Taken: 7.1642954309781395 minutes
+2026-10-08 10:26:07,176 - INFO - Ingesting begin_inventory.csv in db
+2026-10-08 10:26:09,520 - INFO - Ingesting end_inventory.csv in db
+2026-10-08 10:26:14,012 - WARNING - Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x000001F5B2A34F50>
+2026-10-08 10:36:29,126 - INFO - Ingesting begin_inventory.csv in db
+2026-10-08 10:36:31,185 - INFO - Ingesting end_inventory.csv in db
+2026-10-08 10:36:38,509 - INFO - Ingesting purchases.csv in db
+2026-10-08 10:37:11,929 - INFO - Ingesting purchase_prices.csv in db
+2026-10-08 10:37:36,419 - INFO - Ingesting sales.csv in db
+2026-10-08 10:42:07,078 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-08 10:42:07,226 - INFO - ---------------------Ingestion Complete--------------------
+2026-10-08 10:42:07,226 - INFO - 
+Total Time Taken: 5.639730552832286 minutes
+2026-10-08 10:43:32,868 - INFO - Ingesting begin_inventory.csv in db
+2026-10-08 10:43:35,022 - INFO - Ingesting end_inventory.csv in db
+2026-10-08 10:43:42,409 - INFO - Ingesting purchases.csv in db
+2026-10-08 10:44:18,289 - INFO - Ingesting purchase_prices.csv in db
+2026-10-08 10:44:41,426 - INFO - Ingesting sales.csv in db
+2026-10-08 10:49:39,594 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-08 10:49:39,750 - INFO - ---------------------Ingestion Complete--------------------
+2026-10-08 10:49:39,750 - INFO - 
+Total Time Taken: 6.119548722108205 minutes
+2026-10-08 11:22:07,452 - DEBUG - Using selector: SelectSelector
+2026-10-08 11:22:07,492 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-08 11:22:07,535 - WARNING - No such comm: cbb362fe-b2b6-420d-9b9c-97092b1b4946
+2026-10-08 11:22:07,538 - DEBUG - Current comms: []
+2026-10-08 13:45:57,410 - DEBUG - Using selector: SelectSelector
+2026-10-08 13:45:57,416 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-08 13:45:57,433 - WARNING - No such comm: 91bc1bcf-872b-472a-a78a-a29626cdcc22
+2026-10-08 13:45:57,434 - DEBUG - Current comms: []
+2026-10-08 15:49:56,746 - DEBUG - Using selector: SelectSelector
+2026-10-08 15:49:56,771 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-08 15:49:56,776 - WARNING - No such comm: c3202dbe-f4aa-40b4-9a6c-bd7c87e17855
+2026-10-08 15:49:56,776 - DEBUG - Current comms: []
+2026-10-08 16:12:43,433 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-08 16:12:43,434 - DEBUG - Using selector: SelectSelector
+2026-10-08 16:12:43,452 - WARNING - No such comm: ae9daddd-b5fa-44fc-93a3-2dcc21885637
+2026-10-08 16:12:43,453 - DEBUG - Current comms: []
+2026-10-08 16:12:43,545 - DEBUG - Using selector: SelectSelector
+2026-10-08 16:12:43,562 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-08 16:12:43,567 - WARNING - No such comm: 6f519e43-c69b-435a-a3bd-930e44b82441
+2026-10-08 16:12:43,569 - DEBUG - Current comms: []
+2026-10-15 11:21:53,335 - INFO - Ingesting begin_inventory.csv in db
+2026-10-15 11:21:55,607 - INFO - Ingesting end_inventory.csv in db
+2026-10-15 11:22:03,258 - INFO - Ingesting purchases.csv in db
+2026-10-15 11:22:38,175 - INFO - Ingesting purchase_prices.csv in db
+2026-10-15 11:23:00,554 - INFO - Ingesting sales.csv in db
+2026-10-15 11:26:15,138 - INFO - Ingesting begin_inventory.csv in db
+2026-10-15 11:26:17,380 - INFO - Ingesting end_inventory.csv in db
+2026-10-15 11:26:25,578 - INFO - Ingesting purchases.csv in db
+2026-10-15 11:26:34,332 - INFO - Ingesting begin_inventory.csv in db
+2026-10-15 11:26:36,521 - INFO - Ingesting end_inventory.csv in db
+2026-10-15 11:26:44,008 - INFO - Ingesting purchases.csv in db
+2026-10-15 11:27:21,555 - INFO - Ingesting purchase_prices.csv in db
+2026-10-15 11:27:45,154 - INFO - Ingesting sales.csv in db
+2026-10-15 11:30:11,512 - INFO - Ingesting begin_inventory.csv in db
+2026-10-15 11:30:13,956 - INFO - Ingesting end_inventory.csv in db
+2026-10-15 11:30:22,501 - INFO - Ingesting purchases.csv in db
+2026-10-15 11:30:58,293 - INFO - Ingesting purchase_prices.csv in db
+2026-10-15 11:31:21,040 - INFO - Ingesting sales.csv in db
+2026-10-15 11:35:40,975 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-15 11:35:41,113 - INFO - ---------------------Ingestion Complete--------------------
+2026-10-15 11:35:41,113 - INFO - 
+Total Time Taken: 5.498889295260112 minutes
+2026-10-15 12:34:04,650 - DEBUG - Using selector: SelectSelector
+2026-10-15 12:34:04,659 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-15 12:34:04,679 - WARNING - No such comm: 8e952b2b-d288-4a77-af1d-7dc8997a185c
+2026-10-15 12:34:04,679 - DEBUG - Current comms: []
+2026-10-15 23:31:58,745 - INFO - Ingesting begin_inventory.csv in db
+2026-10-15 23:32:00,843 - INFO - Ingesting end_inventory.csv in db
+2026-10-15 23:32:07,988 - INFO - Ingesting purchases.csv in db
+2026-10-15 23:32:39,126 - INFO - Ingesting purchase_prices.csv in db
+2026-10-15 23:33:00,559 - INFO - Ingesting sales.csv in db
+2026-10-15 23:36:53,162 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-15 23:36:53,266 - INFO - ---------------------Ingestion Complete--------------------
+2026-10-15 23:36:53,267 - INFO - 
+Total Time Taken: 4.913892193635305 minutes
+2026-10-15 23:36:53,666 - INFO - Ingesting begin_inventory.csv in db
+2026-10-15 23:36:55,468 - INFO - Ingesting end_inventory.csv in db
+2026-10-15 23:37:02,498 - INFO - Ingesting purchases.csv in db
+2026-10-15 23:37:34,653 - INFO - Ingesting purchase_prices.csv in db
+2026-10-15 23:37:55,855 - INFO - Ingesting sales.csv in db
+2026-10-15 23:41:32,203 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-15 23:41:32,336 - INFO - ---------------------Ingestion Complete--------------------
+2026-10-15 23:41:32,336 - INFO - 
+Total Time Taken: 4.649855077266693 minutes
+2026-10-16 01:44:31,961 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 01:44:33,807 - INFO - Ingesting end_inventory.csv in db
+2026-10-16 01:44:40,822 - INFO - Ingesting purchases.csv in db
+2026-10-16 01:45:11,227 - INFO - Ingesting purchase_prices.csv in db
+2026-10-16 01:45:32,443 - INFO - Ingesting sales.csv in db
+2026-10-16 01:48:29,148 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 01:49:01,717 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 01:49:31,589 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-16 01:49:31,687 - INFO - ---------------------Ingestion Complete--------------------
+2026-10-16 01:49:31,687 - INFO - 
+Total Time Taken: 4.998482290903727 minutes
+2026-10-16 01:49:32,310 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-16 01:49:32,313 - WARNING - No such comm: 12e8d9dd-006a-49f0-844e-be2bd80afa94
+2026-10-16 01:49:32,313 - DEBUG - Current comms: []
+2026-10-16 01:49:32,330 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-16 01:49:32,332 - WARNING - No such comm: 80645a86-9af6-4382-be07-c69699a37a4f
+2026-10-16 01:49:32,332 - DEBUG - Current comms: []
+2026-10-16 01:50:22,561 - DEBUG - Using selector: SelectSelector
+2026-10-16 01:50:22,564 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-16 01:50:22,576 - WARNING - No such comm: 3f6b784d-79d3-45d3-8c78-f3d10e2bfcea
+2026-10-16 01:50:22,576 - DEBUG - Current comms: []
+2026-10-16 01:50:27,853 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 01:50:29,848 - INFO - Ingesting end_inventory.csv in db
+2026-10-16 01:50:36,748 - INFO - Ingesting purchases.csv in db
+2026-10-16 01:51:12,523 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 01:51:14,512 - INFO - Ingesting end_inventory.csv in db
+2026-10-16 01:51:21,562 - INFO - Ingesting purchases.csv in db
+2026-10-16 01:51:53,631 - INFO - Ingesting purchase_prices.csv in db
+2026-10-16 01:52:15,067 - INFO - Ingesting sales.csv in db
+2026-10-16 01:56:05,273 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 01:56:07,501 - INFO - Ingesting end_inventory.csv in db
+2026-10-16 01:56:11,737 - WARNING - Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x000001F5892A5B50>
+2026-10-16 01:56:11,738 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-16 01:56:48,472 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 01:56:50,470 - INFO - Ingesting end_inventory.csv in db
+2026-10-16 01:56:57,598 - INFO - Ingesting purchases.csv in db
+2026-10-16 01:57:29,658 - INFO - Ingesting purchase_prices.csv in db
+2026-10-16 01:57:50,540 - INFO - Ingesting sales.csv in db
+2026-10-16 02:01:37,161 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-16 02:01:37,284 - INFO - ---------------------Ingestion Complete--------------------
+2026-10-16 02:01:37,284 - INFO - 
+Total Time Taken: 4.818210339546203 minutes
+2026-10-16 02:05:44,036 - DEBUG - Using selector: SelectSelector
+2026-10-16 02:05:44,089 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-16 02:05:44,096 - WARNING - No such comm: da20a039-8397-4c11-83bf-c42fe0558c6a
+2026-10-16 02:05:44,097 - DEBUG - Current comms: []
+2026-10-16 02:05:57,281 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 02:21:40,787 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 02:21:42,748 - INFO - Ingesting end_inventory.csv in db
+2026-10-16 02:21:49,785 - INFO - Ingesting purchases.csv in db
+2026-10-16 02:22:23,015 - INFO - Ingesting purchase_prices.csv in db
+2026-10-16 02:22:44,120 - INFO - Ingesting sales.csv in db
+2026-10-16 02:25:30,550 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 02:25:32,861 - INFO - Ingesting end_inventory.csv in db
+2026-10-16 02:25:39,954 - INFO - Ingesting purchases.csv in db
+2026-10-16 02:26:17,209 - INFO - Ingesting purchase_prices.csv in db
+2026-10-16 02:26:33,215 - DEBUG - Using selector: SelectSelector
+2026-10-16 02:26:33,237 - ERROR - No such comm target registered: jupyter.widget.control
+2026-10-16 02:26:33,282 - WARNING - No such comm: 899a6e09-ee76-4c1d-81e2-c7bab3a893ba
+2026-10-16 02:26:33,283 - DEBUG - Current comms: []
+2026-10-16 02:26:38,814 - INFO - Ingesting sales.csv in db
+2026-10-16 02:27:24,720 - INFO - Ingesting begin_inventory.csv in db
+2026-10-16 02:27:26,897 - INFO - Ingesting end_inventory.csv in db
+2026-10-16 02:27:34,200 - INFO - Ingesting purchases.csv in db
+2026-10-16 02:28:06,818 - INFO - Ingesting purchase_prices.csv in db
+2026-10-16 02:28:27,861 - INFO - Ingesting sales.csv in db
+2026-10-16 02:32:13,219 - INFO - Ingesting vendor_invoice.csv in db
+2026-10-16 02:32:13,352 - INFO - ---------------------Ingestion Complete--------------------
+2026-10-16 02:32:13,352 - INFO - 
+Total Time Taken: 4.814140518506368 minutes
